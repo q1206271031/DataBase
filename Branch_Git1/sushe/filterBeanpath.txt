@@ -1,0 +1,8 @@
+E:\src-instru\src\com\bean\OutBean.java,
+E:\src-instru\src\com\bean\LogBean.java,
+E:\src-instru\src\com\bean\AdminBean.java,
+E:\src-instru\src\com\bean\DomitoryBean.java,
+E:\src-instru\src\com\bean\TBBean.java,
+E:\src-instru\src\com\bean\TeacherBean.java,
+E:\src-instru\src\com\bean\StudentBean.java,
+E:\src-instru\src\com\bean\BuildingBean.java,

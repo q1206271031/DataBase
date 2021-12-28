@@ -1,0 +1,8 @@
+E:\sushe\src-instru\com\bean\DomitoryBean.java,
+E:\sushe\src-instru\com\bean\StudentBean.java,
+E:\sushe\src-instru\com\bean\OutBean.java,
+E:\sushe\src-instru\com\bean\AdminBean.java,
+E:\sushe\src-instru\com\bean\BuildingBean.java,
+E:\sushe\src-instru\com\bean\TeacherBean.java,
+E:\sushe\src-instru\com\bean\TBBean.java,
+E:\sushe\src-instru\com\bean\LogBean.java,

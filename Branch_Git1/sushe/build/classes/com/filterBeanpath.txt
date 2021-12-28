@@ -1,0 +1,8 @@
+E:\xiangmu\sushe\src\src-instru\bean\TeacherBean.java,
+E:\xiangmu\sushe\src\src-instru\bean\StudentBean.java,
+E:\xiangmu\sushe\src\src-instru\bean\LogBean.java,
+E:\xiangmu\sushe\src\src-instru\bean\BuildingBean.java,
+E:\xiangmu\sushe\src\src-instru\bean\DomitoryBean.java,
+E:\xiangmu\sushe\src\src-instru\bean\AdminBean.java,
+E:\xiangmu\sushe\src\src-instru\bean\TBBean.java,
+E:\xiangmu\sushe\src\src-instru\bean\OutBean.java,
